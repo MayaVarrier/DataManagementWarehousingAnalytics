@@ -10,10 +10,10 @@ import tweepy
 import json
 from pymongo import MongoClient
 
-CONSUMER_KEY = "TOetoTqkviDhYd8HHYEAxSRjX"
-CONSUMER_SECRET = "Pmj51TuaCqmzMDcfmhAfX1j9ZXNS7SWENIEXo8e8ShdnK9gdyg"
-ACCESS_TOKEN = "1324732748486053892-8XyQcHGbwa1bQqCaTON5Qs7V5aRylU"
-ACCESS_TOKEN_SECRET = "Wh1r8oCy1gh3fFAes92q0OSBVkYNYzjmhUNPQPXsbHFyW"
+CONSUMER_KEY = "ConsumerKeyGenerated"
+CONSUMER_SECRET = "ConsumerSecretKeyGenerated"
+ACCESS_TOKEN = "AccessTokenGenerated"
+ACCESS_TOKEN_SECRET = "SecretAccessTokenGenerated"
 
 client = MongoClient('mongodb://assignment:assignment@assignment3-shard-00-00.zzszd.mongodb.net:27017,assignment3-shard-00-01.zzszd.mongodb.net:27017,assignment3-shard-00-02.zzszd.mongodb.net:27017/ReuterDb?ssl=true&replicaSet=atlas-nab8sn-shard-0&authSource=admin&retryWrites=true&w=majority')
 db = client.RawDb
