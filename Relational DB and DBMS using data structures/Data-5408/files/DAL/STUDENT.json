@@ -1,0 +1,1 @@
+{"dataVal":[],"createQuery":"CREATE TABLE STUDENT studentid  fname VARCHAR  lname VARCHAR ","tablename":"STUDENT","columnlist":[{"Column0":"studentid"},{"Column1":"VARCHAR"}]}

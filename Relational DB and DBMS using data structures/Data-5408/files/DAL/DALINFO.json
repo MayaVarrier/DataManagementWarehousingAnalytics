@@ -1,0 +1,1 @@
+{"dataVal":[],"createQuery":"CREATE TABLE DALINFO id INT  course VARCHAR  dept VARCHAR ","tablename":"DALINFO","columnlist":[{"Column0":"id"},{"Column1":"course"},{"Column2":"dept"}]}

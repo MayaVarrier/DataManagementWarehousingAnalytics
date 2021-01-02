@@ -1,0 +1,1 @@
+{"dataVal":[],"createQuery":"CREATE TABLE DEPT deptid INT  deptname VARCHAR ","tablename":"DEPT","columnlist":[{"Column0":"deptid"},{"Column1":"deptname"}]}
